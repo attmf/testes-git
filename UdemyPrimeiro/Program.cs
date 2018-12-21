@@ -20,7 +20,6 @@ namespace UdemyPrimeiro
                 Console.WriteLine(dado);
                 Console.WriteLine(nome);
                 Console.WriteLine(uartos);
-                Console.WriteLine(preco);
             }
         }
     }
