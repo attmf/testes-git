@@ -18,6 +18,8 @@ namespace UdemyPrimeiro
             foreach (string dado in dados)
             {
                 Console.WriteLine(dado);
+                Console.WriteLine(nome);
+                Console.WriteLine(uartos);
             }
         }
     }
